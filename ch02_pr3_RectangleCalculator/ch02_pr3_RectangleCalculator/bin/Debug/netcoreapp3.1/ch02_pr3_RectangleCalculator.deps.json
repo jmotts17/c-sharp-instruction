@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ch02_pr3_RectangleCalculator/1.0.0": {
+        "runtime": {
+          "ch02_pr3_RectangleCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch02_pr3_RectangleCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
