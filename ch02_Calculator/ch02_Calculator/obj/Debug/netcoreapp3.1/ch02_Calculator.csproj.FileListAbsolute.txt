@@ -1,0 +1,12 @@
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.exe
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.deps.json
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.runtimeconfig.json
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.runtimeconfig.dev.json
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.dll
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\bin\Debug\netcoreapp3.1\ch02_Calculator.pdb
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.AssemblyInfoInputs.cache
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.AssemblyInfo.cs
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.csproj.CoreCompileInputs.cache
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.dll
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.pdb
+C:\repos\c-sharp-instruction\ch02_Calculator\ch02_Calculator\obj\Debug\netcoreapp3.1\ch02_Calculator.genruntimeconfig.cache
