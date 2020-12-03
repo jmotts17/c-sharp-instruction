@@ -22,8 +22,21 @@ namespace ch05_methods
 
         private static int GetInt(String prompt)
         {
-            Console.Write(prompt);
-            int n = Int32.Parse(Console.ReadLine());
+            int n = 0;
+            Boolean success = false;
+            while (!success)
+            {
+                try
+                {
+                    Console.Write(prompt);
+                    n = Int32.Parse(Console.ReadLine());
+                    success = true;
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine("Invalid entry. Not a whole number. Try again.");
+                }
+            }
             return n;
         }
     }
