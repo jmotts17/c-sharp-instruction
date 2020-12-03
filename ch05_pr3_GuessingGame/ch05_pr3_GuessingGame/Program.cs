@@ -51,7 +51,7 @@ namespace ch05_pr3_GuessingGame
                 OutputSpecialMessage(count);
 
                 // Prompt user to continue
-                response = GetString("\nContinue? (y/n): ");
+                response = GetStringWithinRange("\nContinue? (y/n): ", "y", "n");
             } while (response.Equals("Y") || response.Equals("y"));
 
 
@@ -91,7 +91,7 @@ namespace ch05_pr3_GuessingGame
             return num;
         }
 
-        public static string GetString(String prompt)
+        public static string GetStringWithinRange(String prompt, String s1, String s2)
         {
             String response = "";
             Boolean success = false;
@@ -99,11 +99,11 @@ namespace ch05_pr3_GuessingGame
             {
                 Console.Write(prompt);
                 response = Console.ReadLine();
-                if (response.Equals("y") || response.Equals("n")) {
+                if (response.Equals(s1) || response.Equals(s2)) {
                     success = true;
                 } else
                 {
-                    Console.WriteLine("Invalid entry. Please enter 'y' or 'n'.");
+                    Console.WriteLine("Invalid entry. Please enter " + s1 + " or " + s2 + ".");
                 }
             }
 
