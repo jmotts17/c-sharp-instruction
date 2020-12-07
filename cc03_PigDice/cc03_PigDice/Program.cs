@@ -25,7 +25,7 @@ namespace cc03_PigDice
                 // Prompt user for number of plays
                 int numOfPlays = MyConsole.GetInt("\n# of times to play?: ");
                 
-                // Sets numOfGames, highScore and highestRoll, totalRolls to 0
+                // Sets numOfGames, highScore, highestRoll, totalRolls to 0
                 numOfGames = 0;
                 highScore = 0;
                 highestRoll = 0;
@@ -36,7 +36,7 @@ namespace cc03_PigDice
 
                 for (int i = 0; i < numOfPlays; i++)
                 {
-                    // Set dieRoll and score to 0
+                    // Set dieRoll, score and rollCounter to 0
                     int dieRoll = 0;
                     score = 0;
                     rollCounter = 0;
